@@ -1,6 +1,6 @@
 <img align='left' src='./sprites/kurt.gif' width='20%'>
 
-# ABOUT
+<h1 align='center'>ABOUT</h1>
 
 💻 Frontend Developer 📢 Digital Marketing 🎨 UX/UI Design.
 
