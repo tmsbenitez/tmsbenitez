@@ -1,5 +1,4 @@
 <img align='left' src='./sprites/kurt.gif' width='230'>
-<img align='right' src='./sprites/kurt.gif' width='220'>
 <h1 align='center'>ABOUT</h1>
 
 <p align='center'>
@@ -7,6 +6,7 @@
 📢 Digital Marketing. <br>
 🎨 UX/UI Design.  <br>
 🎸 Lover of music.
+<img align='right' src='./sprites/kurt.gif' width='220'>
 
 <br>
 <br>
