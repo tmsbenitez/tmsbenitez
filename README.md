@@ -8,6 +8,10 @@
 🎨 UX/UI Design.  <br>
 🎸 Lover of music.
 
+<br>
+<br>
+<br>
+<br>
 </p>
 <h2 align='center'>My programming skills</h2>
 <p align='center'>
