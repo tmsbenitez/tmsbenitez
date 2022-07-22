@@ -17,10 +17,6 @@
 </p>
 <h2 align='center'>My programming skills</h2>
 
-<br>
-<br>
-<br>
-<br>
 <p align='center'>
   <img src='./skills/html-5.png'  title='HTML5' >
   <img src='./skills/css-3.png'  title='CSS3' >
@@ -32,5 +28,9 @@
   <img src='./skills/styledcomponents.svg' width='64' title='Styled Components' >
 </p>
 
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look to my projects.</p>
