@@ -2,7 +2,7 @@
   <img align='right' src='./sprites/kurt.gif' width='230'>
   <img align='left' src='./sprites/kurt.gif' width='230'>
 </div>
-<h1 align='center'>ABOUT</h1>
+<h1 align='center'>About</h1>
 
 <p align='center'>
 💻 Frontend Developer. <br>
@@ -16,6 +16,11 @@
 <br>
 </p>
 <h2 align='center'>My programming skills</h2>
+
+<br>
+<br>
+<br>
+<br>
 <p align='center'>
   <img src='./skills/html-5.png'  title='HTML5' >
   <img src='./skills/css-3.png'  title='CSS3' >
