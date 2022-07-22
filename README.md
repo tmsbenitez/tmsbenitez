@@ -2,10 +2,13 @@
 <img align='right' src='./sprites/music.gif' width='20%'>
 <h1 align='center'>ABOUT</h1>
 
-💻 Frontend Developer 📢 Digital Marketing 🎨 UX/UI Design.
-
+<p align='center'>
+💻 Frontend Developer. 
+📢 Digital Marketing.
+🎨 UX/UI Design.
 🎸 Lover of music.
 
+</p>
 <h2 align='center'>My programming skills</h2>
 <p align='center'>
   <img src='./skills/html-5.png'  title='HTML5' >
