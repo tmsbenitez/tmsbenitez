@@ -8,7 +8,7 @@
 💻 Frontend Developer. <br>
 📢 Digital Marketing. <br>
 🎨 UX/UI Design.  <br>
-🎸 Lover of music.
+🎸 Music lover.
 
 <br>
 <br>
