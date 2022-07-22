@@ -1,5 +1,5 @@
-<img align='left' src='./sprites/kurt.gif' width='15%'>
-<img align='right' src='./sprites/music.gif' width='15%'>
+<img align='left' src='./sprites/kurt.gif' width='20%'>
+<img align='right' src='./sprites/music.gif' width='20%'>
 <h1 align='center'>ABOUT</h1>
 
 💻 Frontend Developer 📢 Digital Marketing 🎨 UX/UI Design.
