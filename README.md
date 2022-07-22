@@ -1,6 +1,6 @@
 <div>
-<img align='right' src='./sprites/kurt.gif' width='220'>
-<img align='left' src='./sprites/kurt.gif' width='230'>
+  <img align='right' src='./sprites/kurt.gif' width='230'>
+  <img align='left' src='./sprites/kurt.gif' width='230'>
 </div>
 <h1 align='center'>ABOUT</h1>
 
