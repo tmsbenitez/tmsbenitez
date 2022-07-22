@@ -3,9 +3,9 @@
 <h1 align='center'>ABOUT</h1>
 
 <p align='center'>
-💻 Frontend Developer. 
-📢 Digital Marketing.
-🎨 UX/UI Design.
+💻 Frontend Developer. <br>
+📢 Digital Marketing. <br>
+🎨 UX/UI Design.  <br>
 🎸 Lover of music.
 
 </p>
