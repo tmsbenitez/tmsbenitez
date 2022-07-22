@@ -22,7 +22,7 @@
   <img src='./skills/css-3.png'  title='CSS3' >
   <img src='./skills/js.png' title='JavaScript'  >
   <img src='./skills/react.svg' title='React.js'  width='70'>
-  <img src='./skills/nextjs.png'  title='Next.js' width='64'>
+  <img src='./skills/next-js.png'  title='Next.js' width='64'>
   <img src='./skills/nodejs.svg' title='Node.js'  width='60'>
   <img src='./skills/sass.png' title='SASS' >
   <img src='./skills/styledcomponents.svg' width='64' title='Styled Components' >
