@@ -1,4 +1,4 @@
-<img align='left' src='./sprites/kurt.gif' width='15%'>
+<img align='left' src='./sprites/kurt.gif' width='20%'>
 
 # ABOUT
 
