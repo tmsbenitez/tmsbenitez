@@ -1,5 +1,5 @@
 <img align='left' src='./sprites/kurt.gif' width='200' height='200'>
-<img align='right' src='./sprites/music.gif' width='200' height='200'>
+<img align='right' src='./sprites/music.gif' width='200' height='190'>
 <h1 align='center'>ABOUT</h1>
 
 <p align='center'>
