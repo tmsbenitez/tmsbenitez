@@ -6,8 +6,8 @@
 
 <p align='center'>
 💻 Frontend Developer. <br>
-📢 Digital Marketing. <br>
 🎨 UX/UI Design.  <br>
+📢 Digital Marketing. <br>
 🎸 Music lover.
 
 <br>
