@@ -3,14 +3,13 @@
   <img align='left' src='./sprites/kurt.gif' width='230'>
 </div>
 <h1 align='center'>About Me</h1>
-
+[My portfolio web](https://tmsbenitez.ar/)
 <p align='center'>
 💻 Frontend Developer. <br>
 🎨 UX/UI Design.  <br>
 📢 Digital Marketing. <br>
 🎸 Music lover.
 <br>
-[My portfolio web](https://tmsbenitez.ar/)
 
 <br>
 <br>
