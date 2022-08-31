@@ -5,15 +5,15 @@
 <h1 align='center'>About</h1>
 
 <p align='center'>
-💻 Frontend Developer. <br/>
-📢 Digital Marketing. <br/>
-🎨 UX/UI Design.  <br/>
+💻 Frontend Developer. <br>
+📢 Digital Marketing. <br>
+🎨 UX/UI Design.  <br>
 🎸 Music lover.
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
 </p>
 <h2 align='center'>My programming skills</h2>
 
@@ -25,8 +25,8 @@
   <img src='./skills/bootstrap.svg' title='Bootstrap' width='64'>
   <img src='./skills/js.png' title='JavaScript'  >
   <img src='./skills/react.svg' title='React.js'  width='70'>
-  <br/>
-  <br/>
+  <br>
+  <br>
   <img src='./skills/next-js.png'  title='Next.js' width='64'>
   <img src='./skills/nodejs.svg' title='Node.js'  width='60'>
   <img src='./skills/expressjs.svg' title='Express.js' width='64'>
@@ -36,9 +36,9 @@
   <img src='./skills/jquery.svg' title='jQuery' width='64'>
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look to my projects.</p>
