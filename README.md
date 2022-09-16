@@ -6,8 +6,8 @@
 
 <p align='center'>
 💻 Frontend Developer. <br>
+🎨 UX/UI Designer.  <br>
 📢 Digital Marketing. <br>
-🎨 UX/UI Design.  <br>
 🎸 Music lover. <br>
 </p>
 <h3 align='center' style='text-decoration: underline'>
