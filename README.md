@@ -1,14 +1,7 @@
-<div>
-  <img align='right' src='./sprites/kurt.gif' width='230'>
-  <img align='left' src='./sprites/kurt.gif' width='230'>
-</div>
 <h1 align='center'>About</h1>
 
 <p align='center'>
 💻 Frontend Developer. <br>
-🎨 UX/UI Designer.  <br>
-📢 Digital Marketing. <br>
-🎸 Music lover. <br>
 </p>
 <h3 align='center' style='text-decoration: underline'>
 
