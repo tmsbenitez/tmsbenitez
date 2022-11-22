@@ -11,6 +11,7 @@ If you want to know more about me, here is my [web portfolio](https://tmsbenitez
 <h2>⚡ Technologies</h2>
 <ul>
   <li>React 16+</li>
+  <li>TypeScript</li>
   <li>Next</li>
   <li>Node</li>
   <li>HTML5</li>
