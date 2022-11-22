@@ -1,5 +1,3 @@
-<img align='right' src='./sprites/coffee.gif' width='200"'>
-
 <h1>🙋‍♂️ Hi there!</h1>
 
 My name is <strong>Tomas</strong> and I'm from Argentina! <br/> Currently
