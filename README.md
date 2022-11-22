@@ -5,6 +5,8 @@ working on front-end projects with <strong>HTML</strong>, <strong>SCSS</strong>,
 and <strong>React</strong>. <br/> I've also been improving my knowledge and
 skills with <strong>TypeScript</strong> and <strong>Next</strong>!
 
+If you want to know more about me, here is my [web portfolio](https://tmsbenitez.ar).
+
 <hr/>
 <h2>⚡ Technologies</h2>
 <ul>
