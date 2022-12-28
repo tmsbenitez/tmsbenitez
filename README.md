@@ -1,9 +1,8 @@
 <h1>🙋‍♂️ Hi there!</h1>
 
 My name is <strong>Tomas</strong> and I'm from Argentina! <br/> Currently
-working on front-end projects with <strong>HTML</strong>, <strong>SCSS</strong>,
-and <strong>React</strong>. <br/> I've also been improving my knowledge and
-skills with <strong>TypeScript</strong> and <strong>Next</strong>!
+working on full-stack projects with <strong>TypeScript</strong>, <strong>Tailwind</strong>,
+and <strong>React</strong> or <strong>Next</strong>.
 
 If you want to know more about me, here is my [web portfolio](https://tmsbenitez.ar).
 
