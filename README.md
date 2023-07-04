@@ -1,4 +1,4 @@
-<h1>🙋‍♂️ Hi there!</h1>
+<h1>Hi there!</h1>
 
 My name is <strong>Tomas</strong> and I'm from Argentina! <br/> Currently
 working on full-stack projects with <strong>TypeScript</strong>, <strong>Tailwind</strong>,
